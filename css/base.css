@@ -1,0 +1,11 @@
+:root{
+    --color-primary: #757586;
+    --color-secondary: #000000;
+    --color-contrast: #0640e0;
+    --color-light: rgb(206, 200, 200);
+    --color-dark: rgb(27, 26, 26);
+}
+
+body{
+    background-color: #65656c;
+}
